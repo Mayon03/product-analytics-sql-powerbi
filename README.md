@@ -43,3 +43,36 @@ The dashboard was developed in response to a **management request** for high-lev
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 📈 Example Insights
+- **Profit YoY:** The company achieved ~125% YoY profit growth (showing more than double profit compared to the previous year).  
+- **Top Markets:** Canada, France, and Germany emerged as leading regions in terms of revenue.  
+- **Discount Analysis:** High discount bands contributed significantly to overall revenue distribution.  
+
+---
+
+## 🚀 How to Run
+1. Restore or connect to your **SQL Server database** with the provided schema and data.
+2. Run the SQL script: `product analysis sql query.sql`.
+3. Open the Power BI file: `Product Analysis.pbix`.
+4. Refresh the data connection to your SQL Server instance.
+5. Explore the interactive dashboard visuals.
+
+---
+
+## 🧑‍💻 Author
+**Mayon Vijayanathan**  
+- 📌 Commerce + Data Analytics student (McMaster University)  
+- 💡 Interested in Data Analytics, Business Intelligence, and Strategy Consulting  
+- 🌐 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mayon-vijayanathan-b52391291/)) | [GitHub]([https://github.com](https://github.com/Mayon03))  
+
+---
+
+## 💡 Interview Showcase
+This project demonstrates:
+- Ability to translate **business requests into technical solutions**.  
+- Proficiency in **SQL (joins, aggregations, transformations)**.  
+- Experience with **Power BI modeling, DAX, and visualization best practices**.  
+- Building **end-to-end analytics workflows**: from raw data → SQL transformations → polished dashboards.  
