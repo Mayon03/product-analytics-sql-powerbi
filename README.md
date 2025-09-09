@@ -66,7 +66,7 @@ The dashboard was developed in response to a **management request** for high-lev
 **Mayon Vijayanathan**  
 - 📌 Commerce + Data Analytics student (McMaster University)  
 - 💡 Interested in Data Analytics, Business Intelligence, and Strategy Consulting  
-- 🌐 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mayon-vijayanathan-b52391291/)) | [GitHub]([https://github.com](https://github.com/Mayon03))  
+- 🌐 (https://www.linkedin.com/in/mayon-vijayanathan-b52391291/)(https://github.com/Mayon03) 
 
 ---
 
